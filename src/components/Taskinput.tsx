@@ -1,4 +1,4 @@
-export function Taskinput () {
+function Taskinput () {
   return (
     <div className="m-2 p-2">
       <form className="row">
@@ -16,3 +16,4 @@ export function Taskinput () {
     </div>
   );
 }
+export { Taskinput };

@@ -1,6 +1,6 @@
 import { type TaskCardProps } from "../libs/types";
 
-export function Task (props : TaskCardProps){
+function Task (props : TaskCardProps){
     return (
         <div>
             <div className="card mb-3">
@@ -24,3 +24,4 @@ export function Task (props : TaskCardProps){
     </div>
     );
 }
+export { Task };
