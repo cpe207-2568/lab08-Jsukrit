@@ -1,4 +1,4 @@
-export function Task() {
+export function Taskinput () {
   return (
     <div className="m-2 p-2">
       <form className="row">
@@ -17,4 +17,4 @@ export function Task() {
     </div>
   );
 }
-export default Task;
+export default Taskinput;
