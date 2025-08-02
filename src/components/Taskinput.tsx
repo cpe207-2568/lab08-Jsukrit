@@ -3,7 +3,6 @@ export function Taskinput () {
     <div className="m-2 p-2">
       <form className="row">
         <div className="col-10">
-          <h1>Sukrit jitaree</h1>
           <input
             className="form-control"
             type="text"
