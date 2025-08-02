@@ -24,4 +24,3 @@ export function Task (props : TaskCardProps){
     </div>
     );
 }
-export default Task;

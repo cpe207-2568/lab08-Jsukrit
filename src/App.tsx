@@ -1,8 +1,8 @@
-import  Header  from "./components/Header"
-import Footer from "./components/Footer"
-import  Sidebar  from "./components/Sidebar"
-import  Taskinput  from "./components/Taskinput"
-import Task from "./components/Task" 
+import { Header } from "./components/Header"
+import { Footer } from "./components/Footer"
+import { Sidebar } from "./components/Sidebar"
+import { Taskinput } from "./components/Taskinput"
+import { Task } from "./components/Task"
 
 function App() {
   return (

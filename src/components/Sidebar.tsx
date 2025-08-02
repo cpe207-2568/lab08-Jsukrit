@@ -1,6 +1,6 @@
 import { type SidebarProps } from "../libs/types";
 
-function Sidebar (props: SidebarProps) {
+export function Sidebar (props: SidebarProps) {
   return (
     <aside
           className="d-flex flex-column p-3"
@@ -31,5 +31,3 @@ function Sidebar (props: SidebarProps) {
         </aside>
   );
 }
-export { Sidebar };
-export default Sidebar;

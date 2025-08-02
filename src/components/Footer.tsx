@@ -7,4 +7,3 @@ export function Footer(props: FooterProps) {
     </footer>
   );
 }
-export default Footer;
